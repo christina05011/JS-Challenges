@@ -1,9 +1,9 @@
 ✨ JS Challenger website for beginners:
-    > https://www.jschallenger.com/
+> https://www.jschallenger.com/
 
 ✨ JS Basics Challenges:
     We will focus only in JS Basic challenges.
-    > https://www.jschallenger.com/javascript-basics/
+> https://www.jschallenger.com/javascript-basics/
 
 - Section: Variables
     > 1. Print Hello World
@@ -81,3 +81,10 @@
     > 2. for loop II - looping through an array
     > 3. for loop III - abort running loop
     > 4. while loop
+
+- Section: Scope
+    > 1. Correctly access function result
+    > 2. Correctly update global variable
+    > 3. Make use of function scope to return correct value
+    > 4. Sum global and local variable
+    > 5. Correctly update global variable from within block
