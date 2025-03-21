@@ -19,3 +19,21 @@
 - Section: Booleans
     > 1. Assign boolean to a variable
     > 2. Convert Number to Boolean
+
+- Section: Operators
+    > 1. Comparison operators - Equal
+    > 2. Comparison operators - Not Equal
+    > 3. Comparison operators - Greater than
+    > 4. Comparison operators - Less than
+    > 5. Comparison operators - Greater than or equal
+    > 6. Comparison operators - Less than or equal
+    > 7. Comparison operators - Strict Equality
+    > 8. Comparison operators - Strict Inequality
+    > 9. Logical operators - Logical AND
+    > 10. Logical operators - Logical OR
+    > 11. Arithmetic operators - Addition
+    > 12. Arithmetic operators - Subtraction
+    > 13. Arithmetic operators - Multiplication
+    > 14. Arithmetic operators - Division
+    > 15. Arithmetic operators - Exponential
+    > 16. Arithmetic operators - Remainder (or Modulus)
