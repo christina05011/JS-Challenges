@@ -44,3 +44,11 @@
     > 3. Connect Javascript strings (1): Using addition operator
     > 4. Connect Javascript strings (2): Using template literals
     > 5. Connect Javascript strings (3): Using template literals with expressions
+
+- Section: Conditionals
+    > 1. if statement - satisfy condition
+    > 2. if statement - add missing condition
+    > 3. if...else statement - run else
+    > 4. if statement - test multiple conditions
+    > 5. else-if
+    > 6. Conditional (ternary) operator
