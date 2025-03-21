@@ -70,3 +70,8 @@
     > 4. Create a JavaScript array using variables
     > 5. Find the index of an array element
     > 6. Add element to array
+
+- Section: Objects
+    > 1. Get value from object
+    > 2. Create an object I: Add new property
+    > 3. Create an object II: Add new properties in empty object
