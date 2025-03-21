@@ -37,3 +37,10 @@
     > 14. Arithmetic operators - Division
     > 15. Arithmetic operators - Exponential
     > 16. Arithmetic operators - Remainder (or Modulus)
+
+- Section: Strings
+    > 1. Create a Javascript string
+    > 2. Different ways to create Javascript strings
+    > 3. Connect Javascript strings (1): Using addition operator
+    > 4. Connect Javascript strings (2): Using template literals
+    > 5. Connect Javascript strings (3): Using template literals with expressions
