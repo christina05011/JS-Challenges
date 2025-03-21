@@ -16,3 +16,6 @@
     > 8. Declare a variable and assign a number (using const)
     > 9. Reassign a value to a variable (2) (using let instead of const)
 
+- Section: Booleans
+    > 1. Assign boolean to a variable
+    > 2. Convert Number to Boolean
