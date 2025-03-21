@@ -62,3 +62,11 @@
     > 6. Functions - parameters and arguments (2)
     > 7. Functions - parameters and arguments (3)
     > 8. Return early from function
+
+- Section: Arrays
+    > 1. Create a JavaScript array
+    > 2. Access an array element
+    > 3. Write function to get last element of an array
+    > 4. Create a JavaScript array using variables
+    > 5. Find the index of an array element
+    > 6. Add element to array
