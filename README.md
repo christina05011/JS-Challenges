@@ -88,3 +88,11 @@
     > 3. Make use of function scope to return correct value
     > 4. Sum global and local variable
     > 5. Correctly update global variable from within block
+
+- Section: Functions II
+    > 1. Declare a rest parameter
+    > 2. Change function parameters
+    > 3. Tranform to arrow function
+    > 4. Shorten arrow function
+    > 5. Create arrow function I
+    > 6. Create arrow function II
