@@ -52,3 +52,13 @@
     > 4. if statement - test multiple conditions
     > 5. else-if
     > 6. Conditional (ternary) operator
+
+- Section: Functions I
+    > 1. Function declaration
+    > 2. Function expression
+    > 3. Correctly return value from function (1)
+    > 4. Correctly return value from function (2)
+    > 5. Functions - parameters and arguments (1)
+    > 6. Functions - parameters and arguments (2)
+    > 7. Functions - parameters and arguments (3)
+    > 8. Return early from function
