@@ -1,16 +1,16 @@
 ✨ JS Challenger website for beginners:
 
-> 🔗 Link here: https://www.jschallenger.com/
+> 🔗 Link here: `https://www.jschallenger.com/`
 
 # ✨ JS Basics Challenges:
 
 Our focus will be on basic JavaScript challenges.
 
-> 🔗 Link here: https://www.jschallenger.com/javascript-basics/
+> 🔗 Link here: `https://www.jschallenger.com/javascript-basics/`
 
 ## Section: Variables
 
-💻 JS Script File: VariablesChll.js
+💻 JS Script File: `VariablesChll.js`
 
 > 1. Print Hello World
 > 2. Reassign a value to a variable
@@ -24,14 +24,14 @@ Our focus will be on basic JavaScript challenges.
 
 ## Section: Booleans
 
-💻 JS Script File: BooleansChll.js
+💻 JS Script File: `BooleansChll.js`
 
 > 1. Assign boolean to a variable
 > 2. Convert Number to Boolean
 
 ## Section: Operators
 
-💻 JS Script File: OperatorsChll.js
+💻 JS Script File: `OperatorsChll.js`
 
 > 1. Comparison operators - Equal
 > 2. Comparison operators - Not Equal
@@ -52,7 +52,7 @@ Our focus will be on basic JavaScript challenges.
 
 ## Section: Strings
 
-💻 JS Script File: StringsChll.js
+💻 JS Script File: `StringsChll.js`
 
 > 1. Create a Javascript string
 > 2. Different ways to create Javascript strings
@@ -62,7 +62,7 @@ Our focus will be on basic JavaScript challenges.
 
 ## Section: Conditionals
 
-💻 JS Script File: ConditionalsChll.js
+💻 JS Script File: `ConditionalsChll.js`
 
 > 1. if statement - satisfy condition
 > 2. if statement - add missing condition
@@ -73,7 +73,7 @@ Our focus will be on basic JavaScript challenges.
 
 ## Section: Functions I
 
-💻 JS Script File: FunctionsI_Chll.js
+💻 JS Script File: `FunctionsI_Chll.js`
 
 > 1. Function declaration
 > 2. Function expression
@@ -86,7 +86,7 @@ Our focus will be on basic JavaScript challenges.
 
 ## Section: Arrays
 
-💻 JS Script File: ArraysCll.js
+💻 JS Script File: `ArraysCll.js`
 
 > 1. Create a JavaScript array
 > 2. Access an array element
@@ -97,7 +97,7 @@ Our focus will be on basic JavaScript challenges.
 
 ## Section: Objects
 
-💻 JS Script File: ObjectsChll.js
+💻 JS Script File: `ObjectsChll.js`
 
 > 1. Get value from object
 > 2. Create an object I: Add new property
@@ -105,7 +105,7 @@ Our focus will be on basic JavaScript challenges.
 
 ## Section: Loops
 
-💻 JS Script File: LoopsChll.js
+💻 JS Script File: `LoopsChll.js`
 
 > 1. for loop I - creating JavaScript loops
 > 2. for loop II - looping through an array
@@ -114,7 +114,7 @@ Our focus will be on basic JavaScript challenges.
 
 ## Section: Scope
 
-💻 JS Script File: ScopeChll.js
+💻 JS Script File: `ScopeChll.js`
 
 > 1. Correctly access function result
 > 2. Correctly update global variable
@@ -124,7 +124,7 @@ Our focus will be on basic JavaScript challenges.
 
 ## Section: Functions II
 
-💻 JS Script File: FunctionsII_Chll.js
+💻 JS Script File: `FunctionsII_Chll.js`
 
 > 1. Declare a rest parameter
 > 2. Change function parameters
@@ -135,7 +135,7 @@ Our focus will be on basic JavaScript challenges.
 
 ## Section: Asynchronous javascript
 
-💻 JS Script File: AsyncChll.js
+💻 JS Script File: `AsyncChll.js`
 
 > 1. Execute the code synchronously
 > 2. Execute the code asynchronously
