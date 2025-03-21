@@ -75,3 +75,9 @@
     > 1. Get value from object
     > 2. Create an object I: Add new property
     > 3. Create an object II: Add new properties in empty object
+
+- Section: Loops
+    > 1. for loop I - creating JavaScript loops
+    > 2. for loop II - looping through an array
+    > 3. for loop III - abort running loop
+    > 4. while loop
